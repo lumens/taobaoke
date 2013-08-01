@@ -1,0 +1,14 @@
+#
+# robots.txt for zdianpu.com
+# Version 1.0.0
+#
+
+User-agent: *
+Allow: /item/
+Allow: /huabao/
+Allow: /ad/
+
+Disallow: /inClude/
+Disallow: /webXabara/
+
+Sitemap: http://www.xabara.com/sitemap.xml
